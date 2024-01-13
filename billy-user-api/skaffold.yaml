@@ -1,0 +1,18 @@
+apiVersion: skaffold/v4beta2
+kind: Config
+metadata:
+  name: billy-user-api
+build:
+  artifacts:
+  - image: billy-user-api
+    docker:
+      dockerfile: Dockerfile
+manifests:
+  rawYaml:
+  - deployment.yaml
+portForward:
+- resourceType: service
+  resourceName: billy-user-api
+  localPort: 5001
+  port: 80
+
