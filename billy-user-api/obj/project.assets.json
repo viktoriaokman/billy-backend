@@ -874,11 +874,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\billy-api\\billy-user-api\\billy-user-api.csproj",
+      "projectUniqueName": "C:\\dev\\billy-backend\\billy-user-api\\billy-user-api.csproj",
       "projectName": "billy-user-api",
-      "projectPath": "C:\\dev\\billy-api\\billy-user-api\\billy-user-api.csproj",
+      "projectPath": "C:\\dev\\billy-backend\\billy-user-api\\billy-user-api.csproj",
       "packagesPath": "C:\\Users\\vikto\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\billy-api\\billy-user-api\\obj\\",
+      "outputPath": "C:\\dev\\billy-backend\\billy-user-api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vikto\\AppData\\Roaming\\NuGet\\NuGet.Config"
