@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fTUWwhxbFuZXuLpD0RwxNNz5o5T8wyivHgVgiiPY16Es2s5iwqhsmfdc8U5fXTEKvKLZDJBJWRsAfWLSVUbp7g==",
+  "dgSpecHash": "kc4rb614ijYU5KQmaCH3rLrHN8O4LJKS4CnL7ix+7ilFUr1yr56LhywaogEmM8+jcKLkwdp5uNw/xlzIX51zaQ==",
   "success": true,
-  "projectFilePath": "C:\\dev\\billy-api\\billy-authentication-api\\billy-authentication-api.csproj",
+  "projectFilePath": "C:\\dev\\billy-backend\\billy-authentication-api\\billy-authentication-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vikto\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\vikto\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

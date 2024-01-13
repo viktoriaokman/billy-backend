@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\billy-api\\billy-authentication-api\\billy-authentication-api.csproj": {}
+    "C:\\dev\\billy-backend\\billy-authentication-api\\billy-authentication-api.csproj": {}
   },
   "projects": {
-    "C:\\dev\\billy-api\\billy-authentication-api\\billy-authentication-api.csproj": {
+    "C:\\dev\\billy-backend\\billy-authentication-api\\billy-authentication-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\billy-api\\billy-authentication-api\\billy-authentication-api.csproj",
+        "projectUniqueName": "C:\\dev\\billy-backend\\billy-authentication-api\\billy-authentication-api.csproj",
         "projectName": "billy-authentication-api",
-        "projectPath": "C:\\dev\\billy-api\\billy-authentication-api\\billy-authentication-api.csproj",
+        "projectPath": "C:\\dev\\billy-backend\\billy-authentication-api\\billy-authentication-api.csproj",
         "packagesPath": "C:\\Users\\vikto\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\billy-api\\billy-authentication-api\\obj\\",
+        "outputPath": "C:\\dev\\billy-backend\\billy-authentication-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vikto\\AppData\\Roaming\\NuGet\\NuGet.Config"
